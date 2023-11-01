@@ -1,0 +1,144 @@
+div {
+    background-color:burlywood;
+    border: 7px solid black;
+    border-radius: 5px;
+    width: 425px;
+    height: 700px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    position: relative;
+    left: 40px;
+    margin-inline-start: 15%;
+    margin-top: 20px;
+}
+
+div img {
+    margin: 20px 20px 20px 15px;
+    width: 400px;
+    height: 550px;
+}
+
+.Pp {
+    font-size: 40px;
+    color: white;
+    font-family: Impact;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.Kk {
+    font-size: 40px;
+    color: white;
+    font-family: Impact;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.Ch {
+    font-size: 40px;
+    color: white;
+    font-family: Impact;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.Сс {
+    font-size: 35px;
+    color: white;
+    font-family: Impact;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+p, a{
+    font-size: 25px;
+    color: blanchedalmond;
+    font-family: Impact;
+    text-shadow: 5px 5px 5px black;
+}
+
+body {
+    background-image: url(https://i.gifer.com/Az1x.gif);
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Impact;
+    color: blanchedalmond;
+    text-shadow: 5px 5px 5px black;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: Impact;
+    color: blanchedalmond;
+    text-shadow: 5px 5px 5px black;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: Impact;
+    color: blanchedalmond;
+    text-shadow: 5px 5px 5px black;
+}
+
+footer {
+    background: #ffc;
+    transition: 1s linear;
+}
+
+footer:hover {
+    background: #ff2a00; /* Цвет фона */
+    border-radius: 10px;
+}
+
+.A {
+    color: #dadada; /* Цвет текста */
+    padding: 10px; /* Поля вокруг текста */
+    transition: 1s linear; /* Время изменения */
+}
+.A:hover {
+    color: #fff; /* Цвет текста */
+}
+
+audio {
+    margin: 5px 5px 5px 5px;
+}
+
+.Ashk {
+    border-radius: 15px;
+    width: 396px;
+    height: 220px;
+    margin-inline-start: 23%;
+    margin-bottom: 65px;
+}
+
+header {
+    background-color:red;
+    padding: 40px 0px 40px 25px;
+    border: 3px red solid;
+    border-radius: 10px ;
+  }
+  
+  .link-header {
+    border: white 5px solid;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    font-size: 36px;
+    text-decoration: none;
+    color: white;
+  }
+  
+  nav {
+    padding: 35px 40px 0px 40px;
+  }
+  
+  .link-nav {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    margin-right: 35px;
+    text-decoration: none;
+    border-bottom: 2px solid rgb(255, 81, 0);
+  }
+  
